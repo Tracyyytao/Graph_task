@@ -18,6 +18,7 @@ Total Training Time: 4.87 seconds`
 
 # 3.  图分类
 以TuDataset 中的PROTEINS数据集为例，不同模型结合不同的池化方法，结果如下：
+
 1.GCN
 
 ![GCN](https://github.com/Tracyyytao/Graph_task/blob/main/graph_classification/assets/GCN.png?raw=true)
