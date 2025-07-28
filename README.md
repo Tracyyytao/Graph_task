@@ -34,3 +34,8 @@ Total Training Time: 4.87 seconds`
 4.GIN
 
 ![GIN](https://github.com/Tracyyytao/Graph_task/blob/main/graph_classification/assets/GIN.png?raw=true)
+
+# 4.  知识图谱
+运行期间日志如下：
+
+![kg](https://github.com/Tracyyytao/Graph_task/blob/main/kg/assets/kg.png?raw=true)
