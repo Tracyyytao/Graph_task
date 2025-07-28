@@ -10,3 +10,8 @@
 
 `Train / Val / Test Accuracy: [1.0, 0.668, 0.672]
 Total Training Time: 4.87 seconds`
+
+# 2.  图上的链路预测
+1.设置参数`--model GIN --dataset Cora`，运行main.py文件，结果如下：
+
+![full](https://github.com/Tracyyytao/Graph_task/blob/main/link_prediction/assets/full.png?raw=true)
